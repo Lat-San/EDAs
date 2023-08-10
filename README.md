@@ -1,2 +1,2 @@
 # EDAs
-This repo contains all EDA projects I have done
+This repo contains my Exploratory data analysis projects. Explore at your own descretion I guess 🥷
